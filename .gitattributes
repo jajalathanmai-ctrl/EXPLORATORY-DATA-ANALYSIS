@@ -1,0 +1,22 @@
+
+# 1. GLOBAL LINE ENDING MANAGEMENT
+# Force Git to normalize all text files to LF on check-in and match OS on checkout
+* text=auto
+
+# 2. SOURCE CODE & CONFIGURATIONS (Force LF line endings explicitly)
+
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# 3. BINARY ASSETS (Treated as raw data, never modify line endings)
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.xlsx binary
+*.pdf binary

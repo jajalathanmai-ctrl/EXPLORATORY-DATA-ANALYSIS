@@ -1,0 +1,9 @@
+Transaction_ID,Date,Product_Category,Units_Sold,Unit_Price,Total_Revenue,Payment_Method,Region
+TXN1001,2026-01-10,Electronics,2,150.00,300.00,Credit Card,North
+TXN1002,2026-01-11,Clothing,5,25.00,125.00,PayPal,South
+TXN1003,2026-01-11,Electronics,1,800.00,800.00,Credit Card,East
+TXN1004,2026-01-12,Home Decor,3,45.00,135.00,Debit Card,West
+TXN1005,2026-01-14,Clothing,2,60.00,120.00,Credit Card,North
+TXN1006,2026-01-15,Books,10,12.00,120.00,PayPal,West
+TXN1007,2026-01-16,Home Decor,1,210.00,210.00,Debit Card,East
+TXN1008,2026-01-17,Electronics,3,120.00,360.00,Credit Card,South
